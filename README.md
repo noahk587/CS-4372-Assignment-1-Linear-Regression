@@ -1,5 +1,5 @@
 # CS 4372-Assignment 1: Linear Regression
-Assignment conduction in CS 4372.501.F22 course with collaboration with fellow classmate Ian Lunt. In this assignment, we used the student performance dataset to fit a linear regression model using SGDRegressor library of Scikit-Learn and OLS library of statsmodels.  
+Assignment conducted in CS 4372.501.F22 course with fellow classmate Ian Lunt. In this assignment, we used the student performance dataset to fit a linear regression model using SGDRegressor library of Scikit-Learn and OLS library of statsmodels.  
 
 ## Report:  
 https://1drv.ms/b/s!AmZk6nE6De_nlGa5KK3cj5y1l3Ch?e=Fx2T4w
